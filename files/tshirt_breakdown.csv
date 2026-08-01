@@ -1,0 +1,7 @@
+Component,Cost_USD,Category,Beneficiary_Country,Share_%,Cumulative
+Worker Wages,0.12,Labor,Bangladesh,1.2,0.12
+Materials,1.5,Production,Bangladesh,15.0,1.62
+Factory Overhead,1.2,Production,Bangladesh,12.0,2.8200000000000003
+Shipping & Duties,0.8,Logistics,Global,8.0,3.62
+Brand Margin,2.0,Retail,Brand HQ,20.0,5.62
+Retail Margin,4.38,Retail,Retail Market,43.8,10.0

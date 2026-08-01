@@ -1,0 +1,11 @@
+Country,Region,Min_Wage_USD,Living_Wage_USD,Gap_USD,Coverage_%,Regime
+Bangladesh,South Asia,113,560,447,20.2,Exploited
+Cambodia,Southeast Asia,204,510,306,40.0,Moderate
+Vietnam,Southeast Asia,180,470,290,38.3,Moderate
+India,South Asia,145,420,275,34.5,Moderate
+Indonesia,Southeast Asia,185,495,310,37.4,Moderate
+Sri Lanka,South Asia,95,450,355,21.1,Exploited
+Pakistan,South Asia,120,410,290,29.3,Exploited
+China,East Asia,280,580,300,48.3,Protected
+Turkey,Middle East,400,620,220,64.5,Protected
+Myanmar,Southeast Asia,95,430,335,22.1,Exploited
